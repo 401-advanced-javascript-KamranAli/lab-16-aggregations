@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-KamranAli/lab-16-aggregations/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-KamranAli/lab-12-tour/builds/130275569)
+* [travis](https://travis-ci.com/401-advanced-javascript-KamranAli/lab-16-aggregations/builds/131023574)
 #### Documentation
 * (Server assignments)
 
